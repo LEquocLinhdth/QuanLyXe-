@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmDS_HangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDS_NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHT_XoaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNV_LapPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDS_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDS_HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHT_DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNV_InPhieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNV_LapHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHT_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHeThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDS_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHT_LapTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTK_NhapXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

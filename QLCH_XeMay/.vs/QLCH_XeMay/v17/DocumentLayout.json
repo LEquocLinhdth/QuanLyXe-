@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|e:\\\u0111\u1ED3 \u00E1n nh\u00F3m 2 - qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qlch_xemay\\doancsharp\\frmhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|solutionrelative:doancsharp\\frmhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|e:\\\u0111\u1ED3 \u00E1n nh\u00F3m 2 - qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qlch_xemay\\doancsharp\\frmds_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|solutionrelative:doancsharp\\frmds_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|e:\\\u0111\u1ED3 \u00E1n nh\u00F3m 2 - qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qlch_xemay\\doancsharp\\frmds_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|solutionrelative:doancsharp\\frmds_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|e:\\\u0111\u1ED3 \u00E1n nh\u00F3m 2 - qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qlch_xemay\\doancsharp\\frmds_hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{357C44FD-9328-4334-96F5-71A7C51DEC44}|DoAnCSharp\\DoAnCSharp.csproj|solutionrelative:doancsharp\\frmds_hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDS_KhachHang.cs [Design]",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmDS_KhachHang.cs",
+              "RelativeDocumentMoniker": "DoAnCSharp\\frmDS_KhachHang.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmDS_KhachHang.cs [Design]",
+              "RelativeToolTip": "DoAnCSharp\\frmDS_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:25:04.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDS_HoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmDS_HoaDon.cs",
+              "RelativeDocumentMoniker": "DoAnCSharp\\frmDS_HoaDon.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmDS_HoaDon.cs [Design]",
+              "RelativeToolTip": "DoAnCSharp\\frmDS_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:24:40.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDS_HangHoa.cs [Design]",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmDS_HangHoa.cs",
+              "RelativeDocumentMoniker": "DoAnCSharp\\frmDS_HangHoa.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmDS_HangHoa.cs [Design]",
+              "RelativeToolTip": "DoAnCSharp\\frmDS_HangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:24:39.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHeThong.cs [Design]",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmHeThong.cs",
+              "RelativeDocumentMoniker": "DoAnCSharp\\frmHeThong.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00C1n Nh\u00F3m 2 - Qu\u1EA3n L\u00FD C\u1EEDa H\u00E0ng Xe M\u00E1y\\QLCH_XeMay\\DoAnCSharp\\frmHeThong.cs [Design]",
+              "RelativeToolTip": "DoAnCSharp\\frmHeThong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:16:14.513Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
